@@ -2,7 +2,7 @@
 
 This project  is a comprehensive machine learning project meticulously designed to discern and classify the diverse emotional tones embedded within Turkish music. The dataset underpinning this endeavor boasts 400 carefully curated samples, thoughtfully distributed across four distinct emotional categories: happiness, sadness, anger, and relaxation. Each sample encapsulates a 30-second excerpt extracted from an array of Turkish music genres, spanning both vocal and instrumental compositions.
 
-## Dataset Information
+## Dataset Information 
 
 The dataset used in this project can be accessed via the following link: [Turkish Music Emotion Dataset](https://archive.ics.uci.edu/dataset/862/turkish+music+emotion)
 
